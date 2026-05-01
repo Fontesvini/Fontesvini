@@ -1,12 +1,12 @@
-<h1 align="center">Olá! 👋😄 Prazer, Sou o Vinícius! </h1>
+<h1 align="center">Olá! Prazer, Sou o Vinícius! </h1>
 <h3 align="center">Este é meu repositório de Desenvolvimento de Software.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
-🧑🏻‍🎓 Sou estudante de Analise e Desenvolvimento de Sistemas, faminto por conhecimento e apaixonado por gerar produtos de dados capazes de impactar negócios de maneira exponencial.
+Sou estudante de Analise e Desenvolvimento de Sistemas, faminto por conhecimento e apaixonado por gerar produtos de dados capazes de impactar negócios de maneira exponencial.
 
 ###
 
-🚀 A meta é crescimento e aprendizado constante, para poder potencializar negócios de forma contínua, sempre melhorando a possibilidade de dar passos mais largos em direção ao sucesso!
+A meta é crescimento e aprendizado constante, para poder potencializar negócios de forma contínua, sempre melhorando a possibilidade de dar passos mais largos em direção ao sucesso!
 
 <h2 align="left">💻 Tech Stack</h2>
 <div <br>          
