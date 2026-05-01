@@ -10,10 +10,10 @@
 
 <h2 align="left">💻 Tech Stack</h2>
 <div <br>          
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Python-4695dd?style=for-the-badge&logo=python&logoColor=FFD43B">
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+<img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
