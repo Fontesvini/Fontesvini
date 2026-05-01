@@ -1,11 +1,10 @@
 <h1 align="center">Olá! 👋😄 Prazer, Sou o Vinícius! </h1>
-<h3 align="center">Este é meu repositório de Análise e Engenharia de Dados.</h3>
+<h3 align="center">Este é meu repositório de Desenvolvimento de Software.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
-🧑🏻‍🎓 Sou graduando em Engenharia de Software, faminto por conhecimento e apaixonado por gerar produtos de dados capazes de impactar negócios de maneira exponencial.
+🧑🏻‍🎓 Sou estudante de Analise e Desenvolvimento de Sistemas, faminto por conhecimento e apaixonado por gerar produtos de dados capazes de impactar negócios de maneira exponencial.
 
 ###
-👨🏻‍💻 Tenho experiência em analises e consultas complexas de dados utilizando Python, SQL, Excel, uso da ferramenta AWS para armazenar Dados, plataformas de Business Intelligence(BI) como PowerBI ou Tableau para criar visualizações personalizadas e impactantes com o objetivo de comunicar descobertas de forma clara e acessível.
 
 🚀 A meta é crescimento e aprendizado constante, para poder potencializar negócios de forma contínua, sempre melhorando a possibilidade de dar passos mais largos em direção ao sucesso!
 
@@ -15,9 +14,9 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Python-4695dd?style=for-the-badge&logo=python&logoColor=FFD43B">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img src="[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)">
+<img src="[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)">
+<img src="[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)">
 </div>         
 
 <h2 align="left">🌐 Let's Connect </h2>
