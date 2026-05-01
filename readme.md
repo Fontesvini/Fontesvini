@@ -14,9 +14,9 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Python-4695dd?style=for-the-badge&logo=python&logoColor=FFD43B">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)">
-<img src="[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)">
-<img src="[https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
+<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
 </div>         
 
 <h2 align="left">🌐 Let's Connect </h2>
@@ -27,12 +27,7 @@
 
 ###
 
-<h2 align="left">📊 Github Stats</h2> 
 
-<div>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=Fontesvini&show_icons=true&theme=holi"/>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontesvini&layout=compact&theme=holi"/>
-</div>
 
 
 
