@@ -10,14 +10,17 @@ A meta é crescimento e aprendizado constante, para poder potencializar negócio
 
 <h2 align="left">💻 Tech Stack</h2>
 <div <br>          
-<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-<img src=[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-<img src="(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png)>
-<img src=(https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
 </div>         
+
 
 <h2 align="left">🌐 Let's Connect </h2>
 
