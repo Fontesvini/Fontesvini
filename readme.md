@@ -15,8 +15,8 @@ A meta é crescimento e aprendizado constante, para poder potencializar negócio
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
-<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
+<img src="(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png)>
+<img src=![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)>
 </div>         
 
 <h2 align="left">🌐 Let's Connect </h2>
